@@ -6,6 +6,7 @@
 Bu **ChatGPT** yardımcısının ana amacı, avukatların zamanlarını ve kaynaklarını korumak, onlara daha hızlı yanıtlar sağlamak ve daha iyi hukuki kararlar vermelerine yardımcı olmaktır. Program, **ChatGPT**'nin sahip olduğu doğal dil işleme teknolojisi sayesinde, kullanıcının sormuş olduğu soruları anlayabilecek, kelimelerin, ifadelerin ve cümlelerin anlamını yorumlayabilecek ve uygun yanıtları sunabilecektir.
 
 Bu README dosyası, araçla ilgili kullanım talimatlarını, hukuki konulardaki örnek soruları ve cevapları, aracın özelliklerini ve sınırlamalarını içermektedir.
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
@@ -153,6 +154,19 @@ Saygılarımla
 [Adınız Soyadınız]
 
 ⚠️ **Uyarı!** Kullanıcılar için hazırlanmış sözleşme örnekleri, sadece fikir vermek amacıyla sunulmuş olup, herhangi bir hukuki tavsiye veya öneri niteliği taşımazlar. Bu örnekler, her durum için uygun olmayabilir ve hatalar veya eksiklikler içerebilir. Bu nedenle, sözleşme hazırlama işlemleri için bir avukattan profesyonel yardım almanızı öneririz.
+
+## Emsal Karar Sorgulama 
+> **Kullanıcı:** Bir alacağım var. Borçlu 21/03/2023 tarihinde temerrüde düştü. alacakla alakalı elimde senet yok ve yazılı bir ispat kaynağım yok. borcumun miktarı 50.000 TL. bu olayla alakalı açtığım bir davada bana yardımcı olabilecek yargıtayın emsal kararlarını çıkarabilir misin?
+
+**GPT:**
+
+Elbette, borçlu tarafından ifa edilmeyen bir alacağın tahsili için dava açtığınızda, yazılı bir ispat kaynağınız olmaması durumunda, dava açmanız mümkün olabilir ancak ispat yükümlülüğü size düşecektir. Aşağıda, benzer konulara ilişkin bazı yargıtay kararlarını sizinle paylaşabilirim:
+
+1. "Alacaklı tarafından, borçlunun ödemeyi yapmadığına dair belgeler veya şahitlerin beyanları sunulamadığı hallerde, alacaklı tarafından elde edilen diğer delillerin somut bir gerçeği yeterince ispatlaması gerekmektedir." (Yargıtay 11. Hukuk Dairesi, E. 2016/16167, K. 2017/2182)
+2. "Alacaklı, borçlu tarafından ödeme yapılmaması halinde, borçlu tarafından imzalanmış senet veya yazılı belge olmaksızın, borçlu tarafından ödeme yapılmayacağı yönünde beyanda bulunulması veya ödeme tarihinin geçmesinden sonra borcun ödenmeyeceği şeklinde açıkça ortaya konulması durumunda, alacağını tahsil edebilir." (Yargıtay 19. Hukuk Dairesi, E. 2006/16348, K. 2007/1202)
+
+Ancak, her dava kendine özgüdür ve detaylarına göre farklı kararlar alınabilir. Bu nedenle, size tam olarak hangi yargıtay kararlarının yardımcı olacağını belirlemek için bir avukattan hukuki danışmanlık almanız önemlidir.
+
 ## Bilinen Sorunlar
 
 > ⚠️ Yargıtay emsal karar numaralarını yanlış gösteriyor. Bu sorundan haberdarız.
