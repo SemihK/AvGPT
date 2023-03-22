@@ -22,7 +22,12 @@ Bu README dosyası, araçla ilgili kullanım talimatlarını, hukuki konulardaki
 **ChatGPT** aracını kullanmak oldukça basittir. Avukatlar, hukuki konularla ilgili sorularını doğal dilde yazabilir ve araç, bu sorulara uygun cevapları üretecektir. Aracı kullanmak için aşağıdaki adımları takip edebilirsiniz:
 
 >İlk olarak https://chat.openai.com/chat adresine giriş yapınız. 
-1.  Sorunuzu açık ve net bir şekilde yazın. ChatGPT, doğal dil işleme (NLP) teknolojisi kullanarak anlamaya çalışacaktır, bu nedenle sorunuzu mümkün olduğunca net ve anlaşılır bir şekilde yazmaya çalışın.
+
+>⚠️ Sohbete başlamadan önce aşşağıda yer alan metni **mutlaka** girin. 	
+
+"_Merhaba GPT, ben bir avukatım ve bana bazı konularda yardımcı olman gerekli_.	"
+
+1.  Daha sonra sorunuzu açık ve net bir şekilde yazın. ChatGPT, doğal dil işleme (NLP) teknolojisi kullanarak anlamaya çalışacaktır, bu nedenle sorunuzu mümkün olduğunca net ve anlaşılır bir şekilde yazmaya çalışın.
     
 2.  Sorunuzu yazdıktan sonra, ChatGPT'den yanıt almak için "Enter" veya "Gönder" tuşuna basın.
     
