@@ -1,4 +1,4 @@
-﻿# Hoşgeldin! 
+# Hoşgeldin! 
 
 ## ⚠️ Uyarı ⚠️ 
 >Bu dökümantasyon henüz tamamlanmamış öğeler ve içerikler içeriyor. 
@@ -167,6 +167,152 @@ Elbette, borçlu tarafından ifa edilmeyen bir alacağın tahsili için dava aç
 
 Ancak, her dava kendine özgüdür ve detaylarına göre farklı kararlar alınabilir. Bu nedenle, size tam olarak hangi yargıtay kararlarının yardımcı olacağını belirlemek için bir avukattan hukuki danışmanlık almanız önemlidir.
 
+# Yetenekler
+>Yukarıda yer alan hukuki yetenekler kısmının örnekler ile detaylandırılma bölümüdür.
+ ## Hukuki Terimlerin Açıklanması
+
+**Kullanıcı:** Tahakkuk nedir? 
+
+**ChatGPT:** "Tahakkuk", bir borcun veya yükümlülüğün ortaya çıkması anlamına gelir. Bu terim genellikle bir alacaklının alacağına hak kazanması veya bir borçlunun borcunu ödeme zamanının geldiğinin belirtilmesi için kullanılır.
+
+Örneğin, bir kişi bir mal veya hizmet satın aldığında, satıcıya bir borç oluşur ve bu borç tahakkuk eder. Borçlu olan kişi, borcunu ödemek için belirlenen tarihte ödeme yapmalıdır. Eğer ödeme yapılmazsa, alacaklı borcun tahsil edilmesi için yasal yollara başvurabilir. 
+
+## Hukuk Araştırması
+> ChatGPT belirli bir konu hakkında araştırma yaparak, avukatların hukuki konular hakkında daha fazla bilgi edinmelerine yardımcı olabilir.
+
+**Kullanıcı:** Bu konu hakkında bir hukuk araştırması örneği yazar mısın.
+
+**ChatGPT:** Tabii, bir hukuk araştırması örneği şöyle olabilir:
+
+KONU: Türkiye'de Yeni Bir Ceza Kanunu Tasarısı Üzerine Hukuki İnceleme
+
+ÖZET: Bu araştırma, Türkiye'de mevcut ceza kanunu sisteminin zayıf yönlerine ve eksikliklerine dikkat çekmektedir. Mevcut ceza kanunu, günümüzün toplumsal ve siyasal ihtiyaçlarına yanıt vermekten uzaktır ve bu nedenle yeni bir ceza kanunu tasarısı hazırlanması gerekmektedir. Bu araştırmanın amacı, Türkiye'de yeni bir ceza kanunu tasarısının hazırlanması sürecinde hangi yönleri ele alınması gerektiğine ve mevcut kanuna kıyasla ne tür değişikliklerin yapılması gerektiğine ilişkin bir analiz sunmaktır.
+
+ARAŞTIRMANIN YÖNTEMİ: Bu araştırma, mevcut ceza kanunu hükümlerinin analiz edilmesi ve kıyaslanması, hukuki literatür taraması ve ceza kanunu tasarısının hazırlanması sürecine ilişkin raporların incelenmesi gibi yöntemleri kullanmaktadır.
+
+BULGULAR: Araştırmanın bulguları, Türkiye'deki ceza kanunu sisteminin reforma ihtiyaç duyduğunu ve yeni bir ceza kanunu tasarısının hazırlanması sürecinde insan hakları, hukukun üstünlüğü, adalet, toplumsal ihtiyaçlar ve siyasal ihtiyaçlar gibi faktörlerin dikkate alınması gerektiğini göstermektedir. Bu araştırma ayrıca, ceza kanunu tasarısında suçların tanımı, ceza miktarları, tutuklama ve tutuklu kalma süreleri, ceza indirimi ve af hükümleri gibi alanlarda değişiklikler yapılması gerektiğini de öne sürmektedir.
+
+SONUÇ: Bu araştırma, Türkiye'de mevcut ceza kanunu sisteminin zayıflıklarına ve eksikliklerine dikkat çekmektedir ve yeni bir ceza kanunu tasarısının hazırlanması sürecinde hangi yönleri ele alınması gerektiğine ve ne tür değişikliklerin yapılması gerektiğine ilişkin bir analiz sunmaktadır. Bu araştırmanın sonucunda, daha adaletli, insan haklarına saygılı, hukukun üstünlüğüne dayalı ve toplumsal ihtiyaçları karşılayan bir ceza kanunu sistemi oluşturulması önerilmektedir.
+## Kanunlar ve Yönetmelikler
+>ChatGPT, belirli bir ülkenin kanunları ve yönetmelikleri hakkında bilgi sağlayarak, avukatların hukuki konuları anlamalarına ve müvekkillerine daha iyi danışmanlık yapmalarına yardımcı olabilir.
+
+**Kullanıcı:** Bana iş sağlığı ve güvenliği hakkında 1 maddelik örnek bir yönetmelik söyler misin. 
+
+**ChatGPT:** Elbette, bir yönetmelik örneği aşağıdaki gibidir:
+
+YÖNETMELİK: İş Sağlığı ve Güvenliği Yönetmeliği
+
+MADDE 1 - AMAÇ ve KAPSAM
+
+Bu yönetmeliğin amacı, işyerlerinde çalışanların sağlık ve güvenliğini korumak, iş kazalarını önlemek ve işyerindeki riskleri azaltmak için iş sağlığı ve güvenliği konularında alınması gereken tedbirleri belirlemektir. Bu yönetmelik, işyerlerindeki tüm faaliyetleri kapsamaktadır.
+
+**Kullanıcı:** Örnek bir kanun maddesi yazar mısın. 
+
+**ChatGPT:** Elbette, bir madde örneği aşağıdaki gibidir:
+
+KANUN MADDESİ: Tütün ve Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun Madde 8
+
+Madde 8 - Reklam ve Tanıtım Yasağı
+
+Tütün ve tütün ürünleri ile ilgili olarak her türlü reklam, tanıtım ve sponsorluk yasaktır. Tütün ürünleri, televizyon, radyo, internet, sinema, tiyatro, yazılı, görsel ve işitsel basın, açık ve kapalı mekanlar, dijital ve elektronik mecralar, fuar, sergi, seminer, kongre, spor ve diğer etkinliklerde reklam ve tanıtım yapılamaz. Tütün ürünleri, marka adı, logosu ve ambalajı ile herhangi bir kişi, kurum veya kuruluşla özdeşleştirilemez veya birlikte sunulamaz.
+
+>💡Çalıştığınız konu hakkında ilgili Yönetmelik ve Kanun maddelerini görmek için araca detaylı bilgi vererek istediğiniz yönetmelik ve kanun maddeleri örnekleri getirmesini isteyebilirsiniz. 
+
+## Örnek Davalar ve Kararlar
+
+>ChatGPT, örnek davalar ve yargı kararları hakkında bilgi sağlayarak, avukatların benzer durumlarda müvekkillerine nasıl yardımcı olabileceklerine dair fikirler edinmelerine yardımcı olabilir.
+
+**Kullanıcı:** Bana Türkiye'de hakaret suçlarına ilişkin örnek dava ve kararları listeler misin.
+
+**ChatGPT:** Tamam, Türkiye'de hakaret suçuna ilişkin örnek birkaç dava ve karar aşağıda verilmiştir:
+
+1.  Yargıtay 5. Ceza Dairesi 2018/5017 E. , 2019/2481 K.: Bir kişinin, diğer bir kişiye "hırsız" şeklinde hakaret etmesi nedeniyle mahkumiyetine karar verilmiştir.
+    
+2.  Yargıtay 6. Ceza Dairesi 2017/5931 E. , 2017/7815 K.: Bir kişinin, diğer bir kişiye, "utanmaz" şeklinde hakaret etmesi nedeniyle mahkumiyetine karar verilmiştir.
+    
+3.  Yargıtay 5. Ceza Dairesi 2017/19860 E. , 2018/188 K.: Bir kişinin, bir kamu görevlisine, "terbiyesiz" şeklinde hakaret etmesi nedeniyle mahkumiyetine karar verilmiştir.
+    
+4.  Yargıtay 5. Ceza Dairesi 2016/9980 E. , 2017/726 K.: Bir kişinin, bir başka kişiye "namussuz" şeklinde hakaret etmesi nedeniyle mahkumiyetine karar verilmiştir.
+
+## Hukuki Belge Hazırlığı
+>ChatGPT, avukatların belirli bir hukuki belgeyi hazırlarken kullanabilecekleri örnekler ve şablonlar sağlayarak, hukuki belge hazırlığı sürecini kolaylaştırabilir.
+
+**Kullanıcı:** Bana araç satışı hakkında bir vekaletname örneği düzenler misin.
+
+**Chatgpt:** Elbette, aşağıdaki gibi bir araç satışı için vekaletname örneği düzenleyebilirim. Ancak, vekaletnamenin detayları, özellikle vekalet veren ve vekilin adı gibi bazı kişisel bilgiler, ödeme koşulları vb. gibi bilgiler, sizin özel durumunuza ve gereksinimlerinize göre ayarlanabilir.
+
+VEKALETNAME
+
+Bu vekaletname, (Vekalet Veren) tarafından, (Vekalet Alan) adına ve hesabına (Araç Bilgileri) araç satışı için vekalet vermek amacıyla düzenlenmiştir.
+
+Bu vekaletname, (Vekalet Veren) adına ve hesabına, araç satışı için gerekli tüm işlemlerin yapılması için yetki verir. Bu yetki, araç satışı ile ilgili tüm belgelerin düzenlenmesi, imzalanması, teslim alınması, ödeme yapılması ve tüm diğer işlemleri kapsar.
+
+Bu vekaletname (Tarih) tarihinde verilmiştir ve (Vekalet Veren) tarafından imzalanmıştır.
+
+Vekalet Veren: Adı Soyadı: Adresi: Telefonu: T.C. Kimlik No:
+
+Vekalet Alan: Adı Soyadı: Adresi: Telefonu:
+
+Araç Bilgileri: Marka: Model: Seri No: Plaka No: Ruhsat No:
+
+Yetki verilen işlemler:
+
+1.  Aracın satış işlemlerinin yapılması.
+2.  Aracın tescil işlemlerinin yapılması.
+3.  Aracın teslimi ile ilgili tüm işlemlerin yapılması.
+4.  Ödeme yapılması ile ilgili tüm işlemlerin yapılması.
+
+Vekalet verenin imzası: _______________________ (Vekalet Veren Adı ve Tarih)
+
+**Kullanıcı:** Bana trafik kazası hakkında bir bilir kişi raporu örneği düzenler misin.
+
+**ChatGPT:** Elbette, aşağıdaki örnek bilirkişi raporu, bir trafik kazası ile ilgili olarak hazırlanmıştır. Ancak, raporun içeriği her duruma göre değişebilir, özellikle kazanın niteliği, sebepleri ve sonuçları gibi faktörlere bağlı olarak.
+
+BİLİRKİŞİ RAPORU
+
+Dosya No: Rapor No: Rapor Tarihi:
+
+Olay: (Kısa bir açıklama yazılmalıdır)
+
+1.  Olay Yeri: (Olayın gerçekleştiği yer belirtilmelidir.)
+2.  Olay Tarihi: (Olayın gerçekleştiği tarih belirtilmelidir.)
+3.  Olay Saati: (Olayın gerçekleştiği saat belirtilmelidir.)
+
+Olayın Değerlendirmesi:
+
+1.  Araçların Kaza Öncesi Durumu: (Kazaya karışan araçların kaza öncesi durumu, araçların teknik durumu, hasarlar, lastiklerin durumu, frenlerin durumu, farların durumu vb. gibi hususlar değerlendirilir ve raporda belirtilir.)
+    
+2.  Araçların Kaza Sonrası Durumu: (Kazaya karışan araçların kaza sonrası durumu, araçların teknik durumu, hasarlar, lastiklerin durumu, frenlerin durumu, farların durumu vb. gibi hususlar değerlendirilir ve raporda belirtilir.)
+    
+3.  Kaza Sonucu Meydana Gelen Zararlar: (Kaza sonucu meydana gelen maddi zararlar, araçların hasarları, yaralanmalar vb. gibi hususlar değerlendirilir ve raporda belirtilir.)
+    
+4.  Kaza Sebebi: (Kazanın sebebi, kazaya karışan araçların hangi şeritten geldiği, hangi hızda olduğu vb. gibi hususlar değerlendirilir ve raporda belirtilir.)
+    
+5.  Kazaya Şahit Olan Kişiler: (Kaza anında olay yerinde bulunan kişilerin ifadeleri alınır ve raporda belirtilir.)
+    
+6.  Diğer Hususlar: (Raporda belirtilmesi gereken diğer hususlar açıklanır.)
+    
+
+Sonuç:
+
+Yukarıda belirtilen hususlar göz önünde bulundurulduğunda, kaza sonucu araçların hasar gördüğü, (kaza sebebi yazılır) nedeniyle meydana geldiği, kaza esnasında (şahit ifadesi belirtilir) gibi kişilerin de olaya tanıklık ettikleri görülmüştür.
+
+Bilirkişi olarak bu raporu hazırlarken, yasalara ve mesleki kurallara uymaya, olayı tarafsız bir şekilde incelemeye ve raporun doğruluğundan emin olmaya özen gösterdim.
+
+Hazırlayan Bilirkişi: (Bilirkişi adı ve soyadı belirtilir)
+
+Bilirkişi Adresi:
+
+İletişim Bilgileri:
+
+Telefon Numarası: E-posta Adresi: İmza:
+
+Bilirkişinin İş Yeri:
+
+Adı: Adresi: Telefon Numarası: E-posta Adresi: İmza:
+
+> **Not:** Bu örnek rapor sadece bir örnektir ve her durumda değişebilir. Bilirkişi raporu hazırlarken, olayın detaylarına ve gereksinimlerine uygun olarak hazırlanmalıdır. Ayrıca, ülkeden ülkeye de farklılıklar olabileceği için, ilgili yasalara ve kurallara uygun olarak hazırlanması önemlidir.
+
 ## Bilinen Sorunlar
 
 > ⚠️ Yargıtay emsal karar numaralarını yanlış gösteriyor. Bu sorundan haberdarız.
@@ -208,11 +354,9 @@ Bu ChatGPT aracı, [MIT] altında lisanslanmıştır. Detaylı bilgi için lütf
 Bu README dosyası, avukatlara yardımcı bir ChatGPT aracı için hazırlanabilecek bazı bölümleri içermektedir. Bu bölümlere ek olarak, aracın özelliklerine ve hedef kitlesine bağlı olarak, farklı bölümler de dahil edilebilir.
 
 Proje **Open-Source** olarak geliştirilmektedir.
-## Contribute ☕️
+## Contribute 🧙‍♂️
 
-Contributed by: [@SemihK](https://github.com/SemihK)
-and
-[@SerhatCanALKAN](https://github.com/SerhatCanALKAN)
+Contributed by: [@SemihK](https://github.com/SemihK) and [@SerhatCanALKAN](https://github.com/SerhatCanALKAN)
 
 
 
