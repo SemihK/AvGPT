@@ -208,6 +208,13 @@ Bu ChatGPT aracı, [MIT] altında lisanslanmıştır. Detaylı bilgi için lütf
 Bu README dosyası, avukatlara yardımcı bir ChatGPT aracı için hazırlanabilecek bazı bölümleri içermektedir. Bu bölümlere ek olarak, aracın özelliklerine ve hedef kitlesine bağlı olarak, farklı bölümler de dahil edilebilir.
 
 Proje **Open-Source** olarak geliştirilmektedir.
+## Prompt Title
+
+Contributed by: [@SemihK](https://github.com/SemihK)
+and
+[@SerhatCanALKAN](https://github.com/SerhatCanALKAN)
+
+
 
 
 ### Support Me
