@@ -2,15 +2,14 @@
 
 ## ⚠️ Uyarı ⚠️ 
 >Bu dökümantasyon henüz tamamlanmamış öğeler ve içerikler içeriyor. 
+
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png)](https://openai.com/blog/chatgpt)
+
  
 Bu **ChatGPT** yardımcısının ana amacı, avukatların zamanlarını ve kaynaklarını korumak, onlara daha hızlı yanıtlar sağlamak ve daha iyi hukuki kararlar vermelerine yardımcı olmaktır. Program, **ChatGPT**'nin sahip olduğu doğal dil işleme teknolojisi sayesinde, kullanıcının sormuş olduğu soruları anlayabilecek, kelimelerin, ifadelerin ve cümlelerin anlamını yorumlayabilecek ve uygun yanıtları sunabilecektir.
 
 Bu README dosyası, araçla ilgili kullanım talimatlarını, hukuki konulardaki örnek soruları ve cevapları, aracın özelliklerini ve sınırlamalarını içermektedir.
 
-
-
-
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png)](https://openai.com/blog/chatgpt)
 
 # GPT Nedir?
 
