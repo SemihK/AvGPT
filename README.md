@@ -7,7 +7,7 @@ Bu **ChatGPT** yardımcısının ana amacı, avukatların zamanlarını ve kayna
 
 Bu README dosyası, araçla ilgili kullanım talimatlarını, hukuki konulardaki örnek soruları ve cevapları, aracın özelliklerini ve sınırlamalarını içermektedir.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png)](https://openai.com/blog/chatgpt)
@@ -354,6 +354,7 @@ Bu ChatGPT aracı, [MIT] altında lisanslanmıştır. Detaylı bilgi için lütf
 Bu README dosyası, avukatlara yardımcı bir ChatGPT aracı için hazırlanabilecek bazı bölümleri içermektedir. Bu bölümlere ek olarak, aracın özelliklerine ve hedef kitlesine bağlı olarak, farklı bölümler de dahil edilebilir.
 
 Proje **Open-Source** olarak geliştirilmektedir.
+> Bu Readme taslağı **GPT** tarafından oluşturulmuştur. 📝
 ## Contribute 🧙‍♂️
 
 Contributed by: [@SemihK](https://github.com/SemihK) and [@SerhatCanALKAN](https://github.com/SerhatCanALKAN)
