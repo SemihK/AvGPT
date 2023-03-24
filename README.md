@@ -1,7 +1,10 @@
 # Hoşgeldin! 
 
 ## ⚠️ Uyarı ⚠️ 
->Bu dökümantasyon henüz tamamlanmamış öğeler ve içerikler içeriyor. 
+>Bu dökümantasyon henüz tamamlanmamış öğeler ve içerikler içeriyor.
+
+
+[![Life Coach - GPT](https://img.shields.io/badge/Life_Coach-GPT-2ea44f)](https://github.com/SemihK/LC2G)
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png)](https://openai.com/blog/chatgpt)
 
